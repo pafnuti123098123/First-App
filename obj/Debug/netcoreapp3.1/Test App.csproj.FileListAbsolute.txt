@@ -1,0 +1,16 @@
+C:\Users\Darius\source\repos\Test App\Test App\bin\Debug\netcoreapp3.1\Test App.exe
+C:\Users\Darius\source\repos\Test App\Test App\bin\Debug\netcoreapp3.1\Test App.deps.json
+C:\Users\Darius\source\repos\Test App\Test App\bin\Debug\netcoreapp3.1\Test App.runtimeconfig.json
+C:\Users\Darius\source\repos\Test App\Test App\bin\Debug\netcoreapp3.1\Test App.runtimeconfig.dev.json
+C:\Users\Darius\source\repos\Test App\Test App\bin\Debug\netcoreapp3.1\Test App.dll
+C:\Users\Darius\source\repos\Test App\Test App\bin\Debug\netcoreapp3.1\Test App.pdb
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.csprojAssemblyReference.cache
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test_App.Form1.resources
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.csproj.GenerateResource.cache
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.AssemblyInfoInputs.cache
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.AssemblyInfo.cs
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.csproj.CoreCompileInputs.cache
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.dll
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.pdb
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test App.genruntimeconfig.cache
+C:\Users\Darius\source\repos\Test App\Test App\obj\Debug\netcoreapp3.1\Test_App.Form1 - Copy.resources
